@@ -2,6 +2,6 @@
   
 <html>
 <script>
-console.log("Hello world!");
+console.log("Hello, World!");
 </script>
 </html>
