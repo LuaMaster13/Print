@@ -1,7 +1,1 @@
-<!DOCTYPE html>
-  
-<html>
-<script>
 console.log("Hello, World!");
-</script>
-</html>
